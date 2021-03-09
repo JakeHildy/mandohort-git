@@ -1,5 +1,1 @@
 This is another file
-
-This is another line in the file.
-
-A third line
